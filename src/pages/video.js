@@ -24,7 +24,7 @@ function Video() {
                 ref={ videoRef }
                 onClick={ handleStart } 
                 loop
-src='https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4'
+                src='https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4'
             >
             </video>
         </div>
