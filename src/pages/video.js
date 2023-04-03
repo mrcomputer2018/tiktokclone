@@ -1,5 +1,6 @@
 import React, { useRef, useState } from 'react'
 import './video.css'
+import Footer from './components/Footer/Footer';
 
 function Video() {
 
@@ -27,6 +28,9 @@ function Video() {
                 src='https://poqlymuephttfsljdabn.supabase.co/storage/v1/object/public/jornadadev/bird.mp4'
             >
             </video>
+            {/* sidebar */}
+            {/* footer */}
+            <Footer/ >
         </div>
     )
 }
